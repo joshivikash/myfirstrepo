@@ -1,0 +1,4 @@
+myfirstrepo
+===========
+
+initial git repository
